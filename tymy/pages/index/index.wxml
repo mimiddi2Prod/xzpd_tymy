@@ -1,0 +1,31 @@
+<!--index.wxml-->
+<view class='body'>
+  <image class="bgtop" src="../images/baseicon/pagetop.jpg" mode="cover"></image>
+  <image class="bgbottom" src="../images/baseicon/pagebottom.jpg" mode="cover"></image>
+
+  <view class="textsay">
+    <text>{{text1}}</text>
+    <text>{{text2}}</text>
+    <text>{{text3}}</text>
+    <text>{{text4}}</text>
+  </view>
+
+
+  <view class="start" wx:if="{{!hasUserInfo && canIUse}}">
+    <button open-type="getUserInfo" bindgetuserinfo='getUserInfo'>进入留言板</button>
+  </view>
+
+  <block wx:else>
+    <view class="view">
+      <image class="userinfo-avatar" wx:if="{{userInfo.avatarUrl}}" src="{{userInfo.avatarUrl}}" mode="cover" />
+      <image class="userinfo-avatar" wx:else src="{{myavatarUrl}}" mode="cover" />
+    </view>
+
+    <view class="start">
+      <button bindtap='start'> 进入留言板</button>
+    </view>
+  </block>
+
+  <loading wx:if="{{loading}}">加载中</loading>
+
+</view>

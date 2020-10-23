@@ -1,0 +1,384 @@
+[ 2019-02-06T00:15:35+08:00 ] 184.105.139.67 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0058s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0138s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2019-02-06T02:09:03+08:00 ] 184.105.139.69 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0058s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0034s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000688s ]
+
+[ 2019-02-06T03:27:35+08:00 ] 47.94.52.138 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0032s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2019-02-06T03:31:20+08:00 ] 47.52.210.90 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000669s ]
+
+[ 2019-02-06T05:08:58+08:00 ] 223.166.222.110 /index.php/Home/tymy/openid_get?code=023jIQL22SYf2X03UkN22vwSL22jIQLm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2019-02-06T05:08:58+08:00 ] 223.166.222.110 /index.php/Home/tymy/user_find?openid=o6iMB5Q6uPeViqyH-0GSlE6-TPFM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Q6uPeViqyH-0GSlE6-TPFM' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2019-02-06T05:19:00+08:00 ] 101.227.139.164 /index.php/Home/mndmovie/openid_get?code=033kGomW1I6DHZ0zwqmW12emmW1kGomI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\MndmovieController.class.php 第 129 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\MndmovieController.class.php 第 137 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2019-02-06T06:34:40+08:00 ] 47.96.254.10 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0061s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0035s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000771s ]
+
+[ 2019-02-06T06:38:58+08:00 ] 119.23.139.140 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2019-02-06T07:13:38+08:00 ] 109.176.72.219 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0034s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000713s ]
+
+[ 2019-02-06T07:25:35+08:00 ] 207.46.13.190 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0065s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0079s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2019-02-06T08:35:25+08:00 ] 109.176.72.219 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0032s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2019-02-06T10:39:50+08:00 ] 107.181.191.161 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2019-02-06T10:39:52+08:00 ] 107.181.191.161 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0061s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2019-02-06T10:39:55+08:00 ] 107.181.191.161 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0032s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2019-02-06T10:54:34+08:00 ] 137.74.30.68 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2019-02-06T16:16:27+08:00 ] 139.162.113.204 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2019-02-06T20:06:58+08:00 ] 71.6.146.186 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0062s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0207s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2019-02-06T21:44:50+08:00 ] 207.46.13.197 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2019-02-06T22:34:07+08:00 ] 107.181.191.161 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0058s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000825s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000867s ]
+
+[ 2019-02-06T22:34:11+08:00 ] 107.181.191.161 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0076s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000927s ]
+
+[ 2019-02-06T22:34:15+08:00 ] 107.181.191.161 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0034s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001213s ]
+
+[ 2019-02-06T23:22:07+08:00 ] 178.73.215.171 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0055s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2019-02-06T23:22:36+08:00 ] 178.73.215.171 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2019-02-06T23:22:49+08:00 ] 178.73.215.171 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2019-02-06T23:23:09+08:00 ] 178.73.215.171 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+

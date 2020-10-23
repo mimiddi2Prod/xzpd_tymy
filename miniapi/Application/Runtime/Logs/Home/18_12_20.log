@@ -1,0 +1,207 @@
+[ 2018-12-20T00:25:27+08:00 ] 216.218.206.67 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2018-12-20T01:02:48+08:00 ] 140.205.205.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2018-12-20T01:12:04+08:00 ] 223.104.6.14 /index.php/Home/xzpd/getopenid?code=033v75P71ZueAM1sn7P71ZKQO71v75PH
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 152 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `mn_xz_user` WHERE `openid` = 'oV9VJ5BP1YCM_0LvXtrbP01KGD4I' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2018-12-20T01:12:28+08:00 ] 223.104.6.14 /index.php/Home/xzpd/adduser?openid=oV9VJ5BP1YCM_0LvXtrbP01KGD4I&name=C.yj&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FEnGRzhEYTMbSQtJ3Aj8jjiciaicNYaet9Csmg9s98r4nqiawmOjghYBzlvQZGiadgibdCMdklWkZg1C5BArHf9mJoVLA%2F132&constellation=%E5%8F%8C%E9%B1%BC&staricon=..%2Fimages%2Fstaricon%2Fshuangyu.png&date=03-20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_xz_user` WHERE `openid` = 'oV9VJ5BP1YCM_0LvXtrbP01KGD4I' LIMIT 1   [ RunTime:0.0006s ]
+SQL: INSERT INTO `mn_xz_user` (`openid`,`name`,`avatar`,`constellation`,`staricon`,`date`) VALUES ('oV9VJ5BP1YCM_0LvXtrbP01KGD4I','C.yj','https://wx.qlogo.cn/mmopen/vi_32/EnGRzhEYTMbSQtJ3Aj8jjiciaicNYaet9Csmg9s98r4nqiawmOjghYBzlvQZGiadgibdCMdklWkZg1C5BArHf9mJoVLA/132','双鱼','../images/staricon/shuangyu.png','03-20') [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2018-12-20T01:12:31+08:00 ] 223.104.6.14 /index.php/Home/xzpd/findrecard?openid1=oV9VJ5BP1YCM_0LvXtrbP01KGD4I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+SQL: SHOW COLUMNS FROM `mn_xz_recard` [ RunTime:0.0068s ]
+NOTIC: [8] Undefined index: myopenid C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 102 行.
+SQL: SELECT * FROM `mn_xz_recard` WHERE `openid1` = 'oV9VJ5BP1YCM_0LvXtrbP01KGD4I'  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2018-12-20T01:12:38+08:00 ] 223.104.6.14 /index.php/Home/xzpd/getwxaqrcode?openid=oV9VJ5BP1YCM_0LvXtrbP01KGD4I&apptype=xz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 169 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 178 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 169 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 178 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2018-12-20T01:12:46+08:00 ] 223.104.6.14 /index.php/Home/xzpd/findrecard?openid1=oV9VJ5BP1YCM_0LvXtrbP01KGD4I
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `mn_xz_recard` [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: myopenid C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 102 行.
+SQL: SELECT * FROM `mn_xz_recard` WHERE `openid1` = 'oV9VJ5BP1YCM_0LvXtrbP01KGD4I'  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2018-12-20T04:00:20+08:00 ] 157.55.39.157 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2018-12-20T08:24:37+08:00 ] 47.94.52.138 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2018-12-20T11:06:15+08:00 ] 104.207.152.196 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000637s ]
+
+[ 2018-12-20T11:37:03+08:00 ] 110.167.88.152 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2018-12-20T12:09:31+08:00 ] 47.97.10.19 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2018-12-20T15:36:14+08:00 ] 157.55.39.171 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2018-12-20T23:24:15+08:00 ] 47.95.28.143 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+

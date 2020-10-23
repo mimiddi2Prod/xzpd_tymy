@@ -1,0 +1,33 @@
+<!--pages/tosay/tosay.wxml-->
+<view class='body'>
+  <image class="bgtop" src="../images/baseicon/tosaytop.jpg" mode="cover"></image>
+  <image class="bgcenter" src="../images/baseicon/tosaycenter.png" mode="cover"></image>
+  <image class="bgbottom" src="../images/baseicon/tosaybottom.png" mode="cover"></image>
+
+  <view class="content1"> </view>
+  <view class="text1">
+    <text class="font13">留言</text>
+    <text class="font10">Leaving a message</text>
+  </view>
+
+  <textarea class="textarea1" bindblur='tosay' auto-height placeholder="写下想要说的话" placeholder-class='font10'></textarea>
+
+
+  <view class="content2"> </view>
+  <view class="text2">
+    <text class="font13">线索</text>
+    <text class="font10">Leave a clue</text>
+  </view>
+
+  <textarea class="textarea2" bindblur='cue' auto-height placeholder="留下暗号或线索，让他可以有机会找到你" placeholder-class='font10'></textarea>
+</view>
+
+<view class='bottom'>
+  <button class="bottom-create" bindtap='isMessage'>
+    完成
+  </button>
+</view>
+<loading wx:if="{{loading}}">留言中</loading>
+
+<!-- <textarea bindblur='tosay' auto-height placeholder="留下信息"></textarea>
+    <textarea bindblur='cue' auto-height placeholder="留下线索，使好友更好的猜到你"></textarea> -->

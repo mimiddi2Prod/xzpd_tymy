@@ -1,0 +1,164 @@
+/* pages/seethrough/seethrough.wxss */
+
+.img {
+  position: absolute;
+  width: 100%;
+  height: 1300rpx;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 66;
+}
+
+.bottom-create {
+  position: relative;
+  width: 100%;
+  height: 90rpx;
+  line-height: 90rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30rpx;
+  color: #fff;
+  border-radius: 0rpx;
+}
+
+.leftbottom {
+  position: relative;
+  float: left;
+  width: 50%;
+  background-color: #0c23af;
+}
+
+.rightbottom {
+  position: relative;
+  float: right;
+  width: 50%;
+  background-color: #0c23af;
+}
+
+.content1 {
+  position: absolute;
+  width: 700rpx;
+  height: auto;
+  margin: 0 25rpx 0 25rpx;
+  top: 80%;
+  left: 2rpx;
+  /* opacity: 0.95; */
+  font-family: MicrosoftYaHei;
+}
+
+.content2 {
+  position: absolute;
+  width: 700rpx;
+  height: auto;
+  margin: 0 25rpx 0 25rpx;
+  top: 70%;
+  left: 2rpx;
+  /* opacity: 0.95; */
+  font-family: MicrosoftYaHei;
+}
+
+.con-pink {
+  border: 2rpx solid #f881b1;
+  background-color: #f5f5f5;
+  border-radius: 15pt;
+  width: 600rpx;
+  margin-left: 51rpx;
+  box-shadow: 0rpx 2rpx 10rpx #d05980;
+  margin-bottom: 36rpx;
+}
+
+.con-blue {
+  border: 2rpx solid #2355b9;
+  background-color: #f5f5f5;
+  border-radius: 15pt;
+  width: 600rpx;
+  margin-left: 51rpx;
+  box-shadow: 0rpx 2rpx 10rpx #21acdf;
+  margin-bottom: 36rpx;
+}
+
+.block {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+}
+
+.font12 {
+  font-size: 12pt;
+}
+
+.mess-padding {
+  padding: 20rpx 20rpx 0 20rpx;
+}
+
+.font-color-pink {
+  color: #f881b1;
+}
+
+.font-color-blue {
+  color: #125bff;
+}
+
+.liuyan-left {
+  position: relative;
+  float: left;
+  width: 16%;
+}
+
+.liuyan-right {
+  position: relative;
+  /* margin-top: 10rpx; */
+  width: 76%;
+  float: right;
+  color: #666;
+  padding: 0 40rpx 0 0;
+
+}
+
+.avatar-padding {
+  padding: 0rpx 0rpx 20rpx 20rpx;
+}
+
+.name2 {
+  padding: 0 20rpx 0 3pt;
+}
+
+.avatar2-pink {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  margin-right: 10rpx;
+  margin-top: 20rpx;
+  border: 3rpx solid #d05980;
+}
+
+.avatar2-blue {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  margin-right: 10rpx;
+  border: 3rpx solid #21acdf;
+}
+
+.avatar2-right {
+  display: inline-block;
+}
+
+.font11 {
+  font-size: 11pt;
+}
+
+.seethrogh-img {
+  position: relative;
+  float: left;
+  width: 9pt;
+  height: 9pt;
+  margin-left: 3pt;
+  margin-top: 3pt;
+  margin-right: 3pt;
+}

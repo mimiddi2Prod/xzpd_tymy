@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mypage/mypage",
+    "pages/message/message",
+    "pages/share/share",
+    "pages/friendpage/friendpage",
+    "pages/tosay/tosay",
+    "pages/seethrough/seethrough"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FDBBD6",
+    "navigationBarTitleText": "填言觅语",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/mypage/mypage",
+        "text": "收到的留言",
+        "iconPath": "pages/images/baseicon/tabbarleft-none.png",
+        "selectedIconPath": "pages/images/baseicon/tabbarleft-active.png"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "发出的留言",
+        "iconPath": "pages/images/baseicon/tabbarright-none.png",
+        "selectedIconPath": "pages/images/baseicon/tabbarright-active.png"
+      }
+    ],
+    "backgroundColor": "#1631A0",
+    "selectedColor": "#FFFFFF",
+    "color": "#4866E1"
+  },
+  "sitemapLocation": "sitemap.json"
+}

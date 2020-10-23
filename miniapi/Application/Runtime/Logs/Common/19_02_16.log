@@ -1,0 +1,18 @@
+[ 2019-02-16T11:27:23+08:00 ] 144.202.43.188 /index.php?s=index/think/template/driver/file/write?cacheFile=11.php&content=%3C?php%20phpinfo();?%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Index
+
+[ 2019-02-16T11:27:26+08:00 ] 144.202.43.188 /index.php?s=captcha&test=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Captcha
+
+[ 2019-02-16T11:27:30+08:00 ] 144.202.43.188 /index.php?s=index/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+ERR: 无法加载模块:Index
+

@@ -1,0 +1,27 @@
+<!--pages/share/share.wxml-->
+<view class='body'>
+  <canvas canvas-id="myCanvas" style="border: 1px solid;width:750rpx;height:{{height}}" />
+  <view class="view">
+    <!-- 带参数 -->
+    <!-- <image class="recode" src="{{codeurl}}" mode="cover"></image> -->
+
+    <!-- 带参数 -->
+    <!-- <image class="userinfo-avatar" src="{{myAvatarUrl}}" mode="cover"></image> -->
+<!-- <image src="{{img}}" mode="cover"></image> -->
+  </view>
+
+</view>
+
+<view class='bottom'>
+  <view class="leftbottom">
+    <button class="bottom-create" open-type='share'>
+      分享到群
+    </button>
+  </view>
+
+  <view class="rightbottom">
+    <view class="bottom-create" bindtap='save'>
+      保存海报
+    </view>
+  </view>
+</view>

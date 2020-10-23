@@ -1,0 +1,90 @@
+[ 2019-03-04T15:04:35+08:00 ] 47.97.7.217 /index.php?s=captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 无法加载模块:Captcha
+
+[ 2019-03-04T15:07:08+08:00 ] 101.37.165.189 /index.php?s=captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Captcha
+
+[ 2019-03-04T15:11:06+08:00 ] 47.97.62.231 /index.php?s=captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Captcha
+
+[ 2019-03-04T15:45:49+08:00 ] 101.37.166.24 /index.php/?s=index/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 无法加载模块:Index
+
+[ 2019-03-04T15:45:49+08:00 ] 101.37.166.24 /index.php/?s=user/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 无法加载模块:User
+
+[ 2019-03-04T15:45:49+08:00 ] 101.37.166.24 /index.php/?s=admin/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Admin
+
+[ 2019-03-04T15:45:49+08:00 ] 101.37.166.24 /index.php/?s=install/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Install
+
+[ 2019-03-04T15:48:29+08:00 ] 47.96.249.122 /index.php/?s=index/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Index
+
+[ 2019-03-04T15:48:29+08:00 ] 47.96.249.122 /index.php/?s=user/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:User
+
+[ 2019-03-04T15:48:29+08:00 ] 47.96.249.122 /index.php/?s=admin/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 无法加载模块:Admin
+
+[ 2019-03-04T15:48:29+08:00 ] 47.96.249.122 /index.php/?s=install/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Install
+
+[ 2019-03-04T15:52:42+08:00 ] 47.97.47.29 /index.php/?s=index/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+ERR: 无法加载模块:Index
+
+[ 2019-03-04T15:52:42+08:00 ] 47.97.47.29 /index.php/?s=user/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: 无法加载模块:User
+
+[ 2019-03-04T15:52:42+08:00 ] 47.97.47.29 /index.php/?s=admin/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 无法加载模块:Admin
+
+[ 2019-03-04T15:52:42+08:00 ] 47.97.47.29 /index.php/?s=install/%5Cthink%5Capp/invokefunction&function=call_user_func&vars[0]=md5&vars[1]=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Install
+

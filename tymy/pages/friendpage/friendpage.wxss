@@ -1,0 +1,376 @@
+/* pages/friendpage/friendpage.wxss */
+
+.body {
+  width: 100%;
+  height: 100%;
+  background-color: #febfdd;
+  /* background: linear-gradient(#2b2e86, #1aacc5); */
+}
+
+.bgtop {
+  position: absolute;
+  width: 750rpx;
+}
+
+.bgbottom {
+  position: relative;
+  width: 750rpx;
+  display: block;
+  margin-top: 130rpx;
+}
+
+.full {
+  height: 50rpx;
+  width: 100%;
+  background-color: #febfdd;
+}
+
+.showmessage {
+  position: relative;
+  width: 750rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 450rpx;
+  margin-bottom: 100rpx;
+  color: #fff;
+}
+
+.flex-center-share {
+  position: relative;
+  width: 750rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 300rpx;
+  margin-bottom: 160rpx;
+  color: #fff;
+}
+
+.percentage {
+  position: relative;
+  width: 100%;
+}
+
+.leftpercentage {
+  position: relative;
+  float: left;
+  width: 33%;
+}
+
+.liuyan {
+  position: relative;
+  width: 130rpx;
+  height: 180rpx;
+  margin-top: 150rpx;
+  z-index: 68;
+}
+
+.centerpercentage {
+  position: relative;
+  float: left;
+  width: 34%;
+}
+
+.rightpercentage {
+  position: relative;
+  float: right;
+  width: 33%;
+}
+
+.flex-center-share {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 200rpx;
+  color: #fff;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.view {
+  position: relative;
+  width: 100%;
+  top: 60rpx;
+}
+
+.block {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+}
+
+.avatars {
+  position: relative;
+  float: left;
+  width: 20%;
+  margin-bottom: 46rpx;
+  font-size: 10pt;
+}
+
+.userinfo-avatar {
+  position: relative;
+  width: 110rpx;
+  height: 110rpx;
+  top: 100rpx;
+  border-radius: 50%;
+  border: 3rpx solid #0c1992;
+}
+
+.userinfo-name {
+  position: relative;
+  top: 120rpx;
+  color: #0c1992;
+}
+
+.share-img {
+  position: fixed;
+  width: 90rpx;
+  height: 90rpx;
+  border-radius: 50%;
+  background-color: #fc7fb2;
+  top: 30rpx;
+  right: 30rpx;
+}
+
+.decrypt {
+  position: relative;
+  width: 90rpx;
+  height: 90rpx;
+  margin-top: 150rpx;
+  z-index: 2;
+}
+
+.receive {
+  position: relative;
+  width: 90rpx;
+  height: 90rpx;
+  margin-top: 150rpx;
+  z-index: 2;
+}
+
+.margintop {
+  position: relative;
+  /* margin-top: 300rpx; */
+}
+
+.content {
+  position: relative;
+  float: right;
+  width: 66%;
+  margin: 0 20rpx 40rpx 20rpx;
+  padding: 12pt 10pt 20pt 10pt;
+  background-color: #fdd2e4;
+  color: #b252aa;
+  font-size: 26rpx;
+  border-radius: 15pt;
+}
+
+.content:after, .content:before {
+  border: solid transparent;
+  content: ' ';
+  height: 0;
+  right: 99%;
+  position: absolute;
+  width: 0;
+}
+
+.content:before {
+  border-width: 12px;
+  border-right-color: #fdd2e4;
+}
+
+/*此处是一个黑色的三角*/
+
+/*当#demo:after和#demo:before的样式重合以后，由于top值的大小不同，就可以得到中间是白色，但是边框的三角形。如上图。*/
+
+.flex {
+  display: flex;
+}
+
+.avatar {
+  position: relative;
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+}
+
+.friend-avatar {
+  position: absolute;
+  right: 7rpx;
+  bottom: 12rpx;
+  width: 69rpx;
+  height: 69rpx;
+  border-radius: 50%;
+}
+
+.avatarboder {
+  position: absolute;
+  width: 120rpx;
+  height: 120rpx;
+}
+
+.unfoletext {
+  text-align: center;
+  width: 150rpx;
+  margin-left: 16rpx;
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+
+.text {
+  background-color: rebeccapurple;
+  margin: 0 60rpx;
+  border-radius: 10rpx;
+  padding: 20rpx 30rpx;
+}
+
+/* 折叠展开 */
+
+button {
+  position: relative;
+  display: block;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  box-sizing: unset;
+  font-size: 30rpx;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1;
+  -webkit-tap-highlight-color: transparent;
+  overflow: hidden;
+  color: #eee;
+  background-color: #fb68a2;
+  border: 1rpx;
+  border-radius: 20rpx;
+}
+
+.button-hover {
+  color: #eee;
+  background-color: #fb68a2;
+}
+
+.con {
+  display: flex;
+  margin-top: 9pt;
+}
+
+.seethrogh {
+  font-size: 9pt;
+  display: flex;
+  margin-top: 9pt;
+  margin-left: 4rpx;
+  text-align: center;
+  margin-right: 20rpx;
+  padding: 6rpx 14rpx;
+}
+
+.seethrogh-img {
+  position: relative;
+  float: left;
+  width: 9pt;
+  height: 9pt;
+  margin-left: 3pt;
+  margin-bottom: -4pt;
+}
+
+.more {
+  position: absolute;
+  float: right;
+  display: flex;
+  right: 20rpx;
+}
+
+.more-img {
+  width: 18pt;
+  height: 18pt;
+}
+
+.more-text {
+  font-size: 7pt;
+}
+
+/* 折叠 */
+
+.long-dec {
+  display: -webkit-box; /*关键属性*/
+  -webkit-box-orient: vertical; /* 关键属性 */
+  -webkit-line-clamp: 3; /* 关键属性 */
+  overflow: hidden; /* 关键属性 */
+  text-overflow: ellipsis; /* 超出内容显示省略号*/
+  word-break: break-all; /* 英文换行 */
+  text-indent: 20rpx;
+}
+
+.hide {
+  display: -webkit-box;
+}
+
+.show {
+  display: block;
+}
+
+/* 折叠 */
+
+.bottom {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.bottom-create {
+  position: relative;
+  width: 100%;
+  height: 90rpx;
+  line-height: 90rpx;
+  background-color: #0c23af;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30rpx;
+  color: #fff;
+  border-radius: 0rpx;
+}
+
+.backgorund-paid {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  bottom: 0;
+  background-color: #202020;
+  opacity: 0.7;
+  z-index: 4;
+}
+
+/* 引导 */
+
+.showguide {
+  position: absolute;
+  width: 750rpx;
+  font-size: 40rpx;
+  top: 550rpx;
+  color: white;
+  z-index: 67;
+  opacity: 0.9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gu{
+  width: 100rpx;
+  height: 160rpx;
+  margin-bottom: 50rpx;
+}

@@ -1,0 +1,57 @@
+<!--pages/seethrough/seethrough.wxml-->
+<!-- <text>{{content}}</text>  -->
+<image class="img" src="{{imgs}}" mode="cover"></image>
+
+<view class='bottom'>
+  <view class="leftbottom">
+    <view class="bottom-create" bindtap='tomypage' style="background-color:{{bgcolor}}">
+      {{content1}}
+    </view>
+  </view>
+  <view class="rightbottom">
+    <view class="bottom-create" bindtap='tofriendpage' style="background-color:{{bgcolor}}">
+      {{content2}}
+    </view>
+  </view>
+</view>
+
+
+
+<view class="content1" wx:if="{{show}}">
+  <view class="con-blue" wx:if="{{not}}">
+    <view class="block font12 mess-padding">
+      <text class="font-color-blue liuyan-left">留言 : </text>
+      <text class="liuyan-right">{{seeThroughMessage}}</text>
+    </view>
+
+    <view class="block avatar-padding">
+      <image class="avatar2-blue" src="{{seeThroughAvatar}}" mode="cover"></image>
+      <view class="avatar2-right font11">
+        <view class="name2">{{seeThroughName}}</view>
+        <view>
+          <image class="seethrogh-img" src="../images/baseicon/jiami.png" mode="cover"></image>
+          <text class="font-color-blue">对不起，我找错人了。</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<view class="content1" wx:if="{{show}}">
+  <view class="con-pink" wx:if="{{!not}}">
+    <view class="block font12 mess-padding">
+      <text class="font-color-pink liuyan-left">留言 : </text>
+      <text class="liuyan-right">{{seeThroughMessage}}</text>
+    </view>
+    <view class="block avatar-padding">
+      <image class="avatar2-pink" src="{{seeThroughAvatar}}" mode="cover"></image>
+      <view class="avatar2-right font11">
+        <view class="name2">{{seeThroughName}}</view>
+        <view>
+          <image class="seethrogh-img" src="../images/baseicon/jiemi.png" mode="cover"></image>
+          <text class="font-color-pink">别隐藏了，就是你</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

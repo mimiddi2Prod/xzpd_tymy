@@ -1,0 +1,1877 @@
+[ 2018-08-29T00:25:56+08:00 ] 60.191.38.78 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2018-08-29T00:33:44+08:00 ] 216.218.206.67 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2018-08-29T00:55:41+08:00 ] 140.205.205.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2018-08-29T01:17:07+08:00 ] 119.23.139.140 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2018-08-29T01:17:54+08:00 ] 123.249.24.188 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2018-08-29T01:53:54+08:00 ] 140.205.205.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2018-08-29T03:48:11+08:00 ] 140.205.205.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-08-29T04:15:39+08:00 ] 183.97.131.14 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2018-08-29T04:52:17+08:00 ] 140.205.205.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2018-08-29T06:39:00+08:00 ] 114.62.102.175 /index.php/Home/tymy/openid_get?code=033xh4Fj1zP6gw0gIUEj1SeaFj1xh4F-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2018-08-29T06:39:00+08:00 ] 114.62.102.175 /index.php/Home/tymy/user_find?openid=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2018-08-29T06:39:00+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2018-08-29T06:39:03+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid1=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid1` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2018-08-29T06:39:14+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-08-29T06:39:18+08:00 ] 114.62.102.175 /index.php/Home/tymy/getwxaqrcode?openid=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2018-08-29T06:39:22+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2018-08-29T06:39:27+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid1=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid1` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2018-08-29T07:31:36+08:00 ] 114.62.102.175 /index.php/Home/tymy/openid_get?code=033BTIAD1Qy8o30zwfyD1z5JAD1BTIAD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2018-08-29T07:31:36+08:00 ] 114.62.102.175 /index.php/Home/tymy/user_find?openid=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2018-08-29T07:31:37+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-08-29T07:31:46+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid1=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid1` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2018-08-29T07:31:53+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2018-08-29T07:31:53+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2018-08-29T07:31:54+08:00 ] 114.62.102.175 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5a3_WmjBNNBGUHLb9UiMvLA
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5a3_WmjBNNBGUHLb9UiMvLA' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2018-08-29T10:18:59+08:00 ] 123.180.255.246 /index.php/Home/tymy/openid_get?code=0113IirT1rtQ971Q9rrT1i2jrT13Iir4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000766s ]
+
+[ 2018-08-29T10:18:59+08:00 ] 123.180.255.246 /index.php/Home/tymy/user_find?openid=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-08-29T10:19:07+08:00 ] 123.180.255.246 /index.php/Home/tymy/user_add?openid=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU&name=%E4%BA%BA%E9%97%B4&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTIEicM90THl9rm9OHyycJtcOwAo88g4Qnuz7ll0G5bXB76SDJntReM7t3xbT1yMampQTsxEtbuxrCg%2F132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `mn_qqh_user` (`openid`,`name`,`avatar`) VALUES ('o6iMB5Ws3IrC8kVvaa9p5iIe-TdU','人间','https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIEicM90THl9rm9OHyycJtcOwAo88g4Qnuz7ll0G5bXB76SDJntReM7t3xbT1yMampQTsxEtbuxrCg/132') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-08-29T10:19:07+08:00 ] 123.180.255.246 /index.php/Home/tymy/user_find?openid=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2018-08-29T10:19:07+08:00 ] 123.180.255.246 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2018-08-29T10:19:08+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2018-08-29T10:19:16+08:00 ] 123.180.255.246 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2018-08-29T10:19:16+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2018-08-29T10:19:45+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-08-29T10:19:46+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2018-08-29T10:20:06+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_mine?openid1=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid1` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-08-29T10:20:07+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2018-08-29T10:20:12+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2018-08-29T10:20:18+08:00 ] 123.180.255.246 /index.php/Home/tymy/getwxaqrcode?openid=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2018-08-29T10:20:21+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2018-08-29T10:20:24+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_mine?openid1=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid1` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2018-08-29T10:20:29+08:00 ] 123.180.255.246 /index.php/Home/tymy/openid_get?code=001zEUmv1M7N3b0ELDkv1jMUmv1zEUmg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2018-08-29T10:20:29+08:00 ] 123.180.255.246 /index.php/Home/tymy/user_find?openid=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2018-08-29T10:20:30+08:00 ] 123.180.255.246 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2018-08-29T10:20:30+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' then 0 else 1 end asc [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2018-08-29T10:21:02+08:00 ] 123.180.255.246 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2018-08-29T10:21:02+08:00 ] 123.180.255.246 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5Ws3IrC8kVvaa9p5iIe-TdU&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5Ws3IrC8kVvaa9p5iIe-TdU' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2018-08-29T10:22:18+08:00 ] 182.107.128.26 /index.php/Home/tymy/openid_get?code=021oGwn30bNnCD1hceo30Vdwn30oGwn3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2018-08-29T10:22:18+08:00 ] 182.107.128.26 /index.php/Home/tymy/user_find?openid=o6iMB5Vpg9UJNZgYaHS_mikdDKWQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Vpg9UJNZgYaHS_mikdDKWQ' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2018-08-29T10:22:18+08:00 ] 182.107.128.26 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Vpg9UJNZgYaHS_mikdDKWQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Vpg9UJNZgYaHS_mikdDKWQ' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2018-08-29T10:50:01+08:00 ] 71.6.232.7 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2018-08-29T10:50:37+08:00 ] 182.107.128.26 /index.php/Home/tymy/openid_get?code=061ybnXJ0jdNG72K9XWJ0xnLXJ0ybnXe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2018-08-29T10:50:38+08:00 ] 182.107.128.26 /index.php/Home/tymy/user_find?openid=o6iMB5Vpg9UJNZgYaHS_mikdDKWQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Vpg9UJNZgYaHS_mikdDKWQ' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2018-08-29T10:50:38+08:00 ] 182.107.128.26 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Vpg9UJNZgYaHS_mikdDKWQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Vpg9UJNZgYaHS_mikdDKWQ' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2018-08-29T11:27:59+08:00 ] 113.127.223.75 /index.php/Home/tymy/openid_get?code=061iv5Uv14Vrra009JTv1LP2Uv1iv5Uz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2018-08-29T11:27:59+08:00 ] 113.127.223.75 /index.php/Home/tymy/user_find?openid=o6iMB5UrvsaH87B8gp3VTzdgVIyQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5UrvsaH87B8gp3VTzdgVIyQ' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2018-08-29T11:28:04+08:00 ] 113.127.223.75 /index.php/Home/tymy/user_add?openid=o6iMB5UrvsaH87B8gp3VTzdgVIyQ&name=fairy%E5%AE%8B&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTLAKRcycZj5TlfS2GfJ5scFqpgUQgBEicIUZxmj5ryoQp5ep2Ia4XUblKqh5xyv7HiaHL9gvD8VRiakw%2F132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5UrvsaH87B8gp3VTzdgVIyQ' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `mn_qqh_user` (`openid`,`name`,`avatar`) VALUES ('o6iMB5UrvsaH87B8gp3VTzdgVIyQ','fairy宋','https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLAKRcycZj5TlfS2GfJ5scFqpgUQgBEicIUZxmj5ryoQp5ep2Ia4XUblKqh5xyv7HiaHL9gvD8VRiakw/132') [ RunTime:0.0069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2018-08-29T11:28:04+08:00 ] 113.127.223.75 /index.php/Home/tymy/user_find?openid=o6iMB5UrvsaH87B8gp3VTzdgVIyQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5UrvsaH87B8gp3VTzdgVIyQ' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2018-08-29T11:28:04+08:00 ] 113.127.223.75 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2018-08-29T11:28:04+08:00 ] 113.127.223.75 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5UrvsaH87B8gp3VTzdgVIyQ&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5UrvsaH87B8gp3VTzdgVIyQ' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2018-08-29T11:29:20+08:00 ] 113.127.223.75 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-08-29T11:29:20+08:00 ] 113.127.223.75 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5UrvsaH87B8gp3VTzdgVIyQ&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5UrvsaH87B8gp3VTzdgVIyQ' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2018-08-29T11:29:50+08:00 ] 113.127.223.75 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5UrvsaH87B8gp3VTzdgVIyQ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5UrvsaH87B8gp3VTzdgVIyQ' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2018-08-29T11:47:40+08:00 ] 121.207.129.162 /index.php/Home/mndmovie/openid_get?code=081XDYjU0pqTtW1hVLjU0TWYjU0XDYjr
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\MndmovieController.class.php 第 129 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\MndmovieController.class.php 第 137 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2018-08-29T11:52:00+08:00 ] 124.23.134.120 /index.php/Home/tymy/openid_get?code=023Zj1oW0qBD7V1343nW0Em2oW0Zj1oj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2018-08-29T11:52:00+08:00 ] 124.23.134.120 /index.php/Home/tymy/user_find?openid=o6iMB5aYtq5jZnzJZUCHrcNKsEXk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5aYtq5jZnzJZUCHrcNKsEXk' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2018-08-29T11:52:11+08:00 ] 124.23.134.120 /index.php/Home/tymy/user_add?openid=o6iMB5aYtq5jZnzJZUCHrcNKsEXk&name=%E7%8E%8B%E5%96%9C%E6%88%90&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F35QetzEuBOvDmC8icJP1g9EM0rA0kAzttBoRUWPw5ElyicQOCe9MfrftMPJJpRT8wycceSOuWmU1m0hAlDN76uJw%2F132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5aYtq5jZnzJZUCHrcNKsEXk' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `mn_qqh_user` (`openid`,`name`,`avatar`) VALUES ('o6iMB5aYtq5jZnzJZUCHrcNKsEXk','王喜成','https://wx.qlogo.cn/mmopen/vi_32/35QetzEuBOvDmC8icJP1g9EM0rA0kAzttBoRUWPw5ElyicQOCe9MfrftMPJJpRT8wycceSOuWmU1m0hAlDN76uJw/132') [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2018-08-29T11:52:11+08:00 ] 124.23.134.120 /index.php/Home/tymy/user_find?openid=o6iMB5aYtq5jZnzJZUCHrcNKsEXk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5aYtq5jZnzJZUCHrcNKsEXk' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2018-08-29T11:52:11+08:00 ] 124.23.134.120 /index.php/Home/tymy/user_add?openid=o6iMB5aYtq5jZnzJZUCHrcNKsEXk&name=%E7%8E%8B%E5%96%9C%E6%88%90&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2F35QetzEuBOvDmC8icJP1g9EM0rA0kAzttBoRUWPw5ElyicQOCe9MfrftMPJJpRT8wycceSOuWmU1m0hAlDN76uJw%2F132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5aYtq5jZnzJZUCHrcNKsEXk' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-29T11:52:12+08:00 ] 124.23.134.120 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2018-08-29T11:52:12+08:00 ] 124.23.134.120 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5aYtq5jZnzJZUCHrcNKsEXk&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5aYtq5jZnzJZUCHrcNKsEXk' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2018-08-29T12:00:45+08:00 ] 121.207.129.162 /index.php/Home/mndmovie/openid_get?code=011qNtZX1nhZAT0Pjp0Y1ollZX1qNtZj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\MndmovieController.class.php 第 129 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\MndmovieController.class.php 第 137 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2018-08-29T12:19:03+08:00 ] 171.110.244.12 /index.php/Home/tymy/openid_get?code=023RQRMA0RZnEg2gBkLA0PZTMA0RQRM8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2018-08-29T12:19:04+08:00 ] 171.110.244.12 /index.php/Home/tymy/user_find?openid=o6iMB5ULWBRlonxdrSIrR_FGnXYU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5ULWBRlonxdrSIrR_FGnXYU' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2018-08-29T12:19:13+08:00 ] 171.110.244.12 /index.php/Home/tymy/user_add?openid=o6iMB5ULWBRlonxdrSIrR_FGnXYU&name=%E4%BB%99%E5%A5%B3%E5%91%B3%E7%9A%84%E6%9E%9D%E8%99%9E&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FujaIw2jobTUHrZUX3ibq9uDVcSukR2KcSmzrhicauhFjVdne9JaUUuAs89UZwMAfq6tMq9pW5WkTdyia45XUEMjGw%2F132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5ULWBRlonxdrSIrR_FGnXYU' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `mn_qqh_user` (`openid`,`name`,`avatar`) VALUES ('o6iMB5ULWBRlonxdrSIrR_FGnXYU','仙女味的枝虞','https://wx.qlogo.cn/mmopen/vi_32/ujaIw2jobTUHrZUX3ibq9uDVcSukR2KcSmzrhicauhFjVdne9JaUUuAs89UZwMAfq6tMq9pW5WkTdyia45XUEMjGw/132') [ RunTime:0.0145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2018-08-29T12:19:13+08:00 ] 171.110.244.12 /index.php/Home/tymy/user_find?openid=o6iMB5ULWBRlonxdrSIrR_FGnXYU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5ULWBRlonxdrSIrR_FGnXYU' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2018-08-29T12:19:14+08:00 ] 171.110.244.12 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2018-08-29T12:19:14+08:00 ] 171.110.244.12 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5ULWBRlonxdrSIrR_FGnXYU&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5ULWBRlonxdrSIrR_FGnXYU' then 0 else 1 end asc [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2018-08-29T12:19:59+08:00 ] 121.207.129.162 /index.php/Home/tymy/openid_get?code=02186fRB1L4W8e0wJzSB17HkRB186fRg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2018-08-29T12:19:59+08:00 ] 121.207.129.162 /index.php/Home/tymy/user_find?openid=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5bQhNjS-ThkDBt9iw2cz5-A' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2018-08-29T12:20:01+08:00 ] 121.207.129.162 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5bQhNjS-ThkDBt9iw2cz5-A' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-08-29T12:20:03+08:00 ] 121.207.129.162 /index.php/Home/tymy/getwxaqrcode?openid=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2018-08-29T13:02:46+08:00 ] 60.191.38.77 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2018-08-29T15:08:50+08:00 ] 42.49.96.243 /index.php/Home/tymy/openid_get?code=033YexU92brQKQ0WqRU92OZkU92YexUq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2018-08-29T15:08:50+08:00 ] 42.49.96.243 /index.php/Home/tymy/user_find?openid=o6iMB5SmKmJc1WvnJCbSOMagqmAw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5SmKmJc1WvnJCbSOMagqmAw' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2018-08-29T15:09:11+08:00 ] 42.49.96.243 /index.php/Home/tymy/user_add?openid=o6iMB5SmKmJc1WvnJCbSOMagqmAw&name=%E9%99%88%E5%BF%97%E9%A6%99&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FexwvlzO7upsjh0hlMkG0KrLhwgeu442SiaiaGlicKjWEicanOPnmFEXjTBJbqu0jiahhkppLz1kCy04uJ4BC6KvwicMg%2F132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5SmKmJc1WvnJCbSOMagqmAw' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `mn_qqh_user` (`openid`,`name`,`avatar`) VALUES ('o6iMB5SmKmJc1WvnJCbSOMagqmAw','陈志香','https://wx.qlogo.cn/mmopen/vi_32/exwvlzO7upsjh0hlMkG0KrLhwgeu442SiaiaGlicKjWEicanOPnmFEXjTBJbqu0jiahhkppLz1kCy04uJ4BC6KvwicMg/132') [ RunTime:0.0024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-08-29T15:09:11+08:00 ] 42.49.96.243 /index.php/Home/tymy/user_find?openid=o6iMB5SmKmJc1WvnJCbSOMagqmAw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5SmKmJc1WvnJCbSOMagqmAw' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2018-08-29T15:09:12+08:00 ] 42.49.96.243 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5SmKmJc1WvnJCbSOMagqmAw&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5SmKmJc1WvnJCbSOMagqmAw' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2018-08-29T15:09:15+08:00 ] 42.49.96.243 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2018-08-29T15:24:07+08:00 ] 61.158.147.15 /index.php/Home/tymy/openid_get?code=023z4H2O0K2aMb24IJ5O0JMT2O0z4H2z
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2018-08-29T15:24:07+08:00 ] 61.158.147.15 /index.php/Home/tymy/user_find?openid=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-08-29T15:24:10+08:00 ] 61.158.147.15 /index.php/Home/tymy/user_add?openid=o6iMB5Ubj-V4qvKdP8o02vzurUqI&name=%E6%A2%85&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FhvTLzRmOTvQU0icviccp7uAbfblpqXePHyMuW2nLjtDEGvEuUVGzhK099QjpUFs4jK4vAoQVdxBfUD2gam7j88Dg%2F132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `mn_qqh_user` (`openid`,`name`,`avatar`) VALUES ('o6iMB5Ubj-V4qvKdP8o02vzurUqI','梅','https://wx.qlogo.cn/mmopen/vi_32/hvTLzRmOTvQU0icviccp7uAbfblpqXePHyMuW2nLjtDEGvEuUVGzhK099QjpUFs4jK4vAoQVdxBfUD2gam7j88Dg/132') [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2018-08-29T15:24:11+08:00 ] 61.158.147.15 /index.php/Home/tymy/user_find?openid=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2018-08-29T15:24:11+08:00 ] 61.158.147.15 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2018-08-29T15:24:11+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5Ubj-V4qvKdP8o02vzurUqI&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5Ubj-V4qvKdP8o02vzurUqI' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2018-08-29T15:26:06+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_add?openid1=o6iMB5Ubj-V4qvKdP8o02vzurUqI&avatar1=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FhvTLzRmOTvQU0icviccp7uAbfblpqXePHyMuW2nLjtDEGvEuUVGzhK099QjpUFs4jK4vAoQVdxBfUD2gam7j88Dg%2F132&name1=%E6%A2%85&openid2=aldwx&name2=undefined&avatar2=undefined&message=%E9%A9%AC%E4%BB%95%E5%87%AF%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0%0A%0A&cue=%E4%BB%A5%E5%89%8D%E7%9A%84%E5%90%8C%E6%A1%8C%0A&isshow=0&count=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0015s ]
+SQL: INSERT INTO `mn_qqh_message` (`openid1`,`avatar1`,`name1`,`openid2`,`name2`,`avatar2`,`message`,`cue`,`isshow`,`count`) VALUES ('o6iMB5Ubj-V4qvKdP8o02vzurUqI','https://wx.qlogo.cn/mmopen/vi_32/hvTLzRmOTvQU0icviccp7uAbfblpqXePHyMuW2nLjtDEGvEuUVGzhK099QjpUFs4jK4vAoQVdxBfUD2gam7j88Dg/132','梅','aldwx','undefined','undefined','马仕凯我喜欢你
+
+','以前的同桌
+','0','3') [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2018-08-29T15:26:07+08:00 ] 61.158.147.15 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2018-08-29T15:26:07+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5Ubj-V4qvKdP8o02vzurUqI&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5Ubj-V4qvKdP8o02vzurUqI' then 0 else 1 end asc [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-08-29T15:28:07+08:00 ] 61.158.147.15 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2018-08-29T15:28:07+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5Ubj-V4qvKdP8o02vzurUqI&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5Ubj-V4qvKdP8o02vzurUqI' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2018-08-29T15:28:48+08:00 ] 61.158.147.15 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-08-29T15:28:49+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5Ubj-V4qvKdP8o02vzurUqI&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5Ubj-V4qvKdP8o02vzurUqI' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2018-08-29T15:29:02+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2018-08-29T15:29:19+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2018-08-29T15:29:20+08:00 ] 61.158.147.15 /index.php/Home/tymy/getwxaqrcode?openid=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2018-08-29T15:29:22+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_mine?openid1=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid1` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-08-29T15:29:33+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2018-08-29T15:29:34+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_mine?openid1=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid1` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2018-08-29T15:29:34+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2018-08-29T15:29:36+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_mine?openid1=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid1` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2018-08-29T15:29:37+08:00 ] 61.158.147.15 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2018-08-29T16:48:53+08:00 ] 61.158.146.181 /index.php/Home/tymy/openid_get?code=0239deBZ0ufJD02zadBZ0nf8BZ09deB6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2018-08-29T16:48:53+08:00 ] 61.158.146.181 /index.php/Home/tymy/user_find?openid=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2018-08-29T16:48:53+08:00 ] 61.158.146.181 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2018-08-29T16:49:00+08:00 ] 61.158.146.181 /index.php/Home/tymy/getwxaqrcode?openid=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2018-08-29T16:49:04+08:00 ] 61.158.146.181 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2018-08-29T16:49:05+08:00 ] 61.158.146.181 /index.php/Home/tymy/getwxaqrcode?openid=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2018-08-29T16:49:14+08:00 ] 61.158.146.181 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2018-08-29T16:49:14+08:00 ] 61.158.146.181 /index.php/Home/tymy/message_find_mine?openid1=o6iMB5Ubj-V4qvKdP8o02vzurUqI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid1` = 'o6iMB5Ubj-V4qvKdP8o02vzurUqI' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2018-08-29T16:56:36+08:00 ] 121.207.129.162 /index.php/Home/tymy/openid_get?code=021ToIVi0hNdln1uSTUi085UVi0ToIV-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2018-08-29T16:56:36+08:00 ] 121.207.129.162 /index.php/Home/tymy/user_find?openid=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5bQhNjS-ThkDBt9iw2cz5-A' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2018-08-29T16:56:37+08:00 ] 121.207.129.162 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5bQhNjS-ThkDBt9iw2cz5-A' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2018-08-29T16:57:02+08:00 ] 121.207.129.162 /index.php/Home/tymy/openid_get?code=001ah35z1AdkVf0MvJ7z1w3P4z1ah350
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2018-08-29T16:57:02+08:00 ] 121.207.129.162 /index.php/Home/tymy/user_find?openid=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5bQhNjS-ThkDBt9iw2cz5-A' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2018-08-29T16:57:03+08:00 ] 121.207.129.162 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5bQhNjS-ThkDBt9iw2cz5-A' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2018-08-29T16:57:05+08:00 ] 121.207.129.162 /index.php/Home/tymy/getwxaqrcode?openid=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 137 行.
+NOTIC: [2] curl_errno(): 25 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 146 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000559s ]
+
+[ 2018-08-29T16:57:14+08:00 ] 121.207.129.162 /index.php/Home/tymy/openid_get?code=021Ec3Bh0uoWty1mYZzh06IWAh0Ec3Br
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2018-08-29T16:57:14+08:00 ] 121.207.129.162 /index.php/Home/tymy/user_find?openid=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5bQhNjS-ThkDBt9iw2cz5-A' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2018-08-29T16:57:15+08:00 ] 121.207.129.162 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5bQhNjS-ThkDBt9iw2cz5-A
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5bQhNjS-ThkDBt9iw2cz5-A' ORDER BY create_time desc  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2018-08-29T16:57:31+08:00 ] 223.74.137.57 /index.php/Home/tymy/openid_get?code=033WLRXq1aBYOo0DSrXq11mRXq1WLRXC
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2018-08-29T16:57:31+08:00 ] 223.74.137.57 /index.php/Home/tymy/user_find?openid=o6iMB5YM0_PBu2j9jpL2QsxZV1Eo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5YM0_PBu2j9jpL2QsxZV1Eo' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2018-08-29T16:57:35+08:00 ] 223.74.137.57 /index.php/Home/tymy/user_add?openid=o6iMB5YM0_PBu2j9jpL2QsxZV1Eo&name=%E6%A2%85&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FZEOaRTZ2v3FibEiczOgPx6TtsZnHiau61XUElKKsIWrLsCIHslR21YhN3wr2yyVldB1F6w4eib8l2fGfTUPHStYvdg%2F132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5YM0_PBu2j9jpL2QsxZV1Eo' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `mn_qqh_user` (`openid`,`name`,`avatar`) VALUES ('o6iMB5YM0_PBu2j9jpL2QsxZV1Eo','梅','https://wx.qlogo.cn/mmopen/vi_32/ZEOaRTZ2v3FibEiczOgPx6TtsZnHiau61XUElKKsIWrLsCIHslR21YhN3wr2yyVldB1F6w4eib8l2fGfTUPHStYvdg/132') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2018-08-29T16:57:35+08:00 ] 223.74.137.57 /index.php/Home/tymy/user_find?openid=o6iMB5YM0_PBu2j9jpL2QsxZV1Eo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5YM0_PBu2j9jpL2QsxZV1Eo' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2018-08-29T16:57:35+08:00 ] 223.74.137.57 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5YM0_PBu2j9jpL2QsxZV1Eo&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5YM0_PBu2j9jpL2QsxZV1Eo' then 0 else 1 end asc [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000602s ]
+
+[ 2018-08-29T16:57:35+08:00 ] 223.74.137.57 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2018-08-29T18:07:06+08:00 ] 119.141.16.198 /index.php/Home/tymy/openid_get?code=023P5OzP1yt2aa1X1NxP1txLzP1P5Oza
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 155 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\TymyController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2018-08-29T18:07:06+08:00 ] 119.141.16.198 /index.php/Home/tymy/user_find?openid=o6iMB5bdYaFhgtwKOEagra9EPV6Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5bdYaFhgtwKOEagra9EPV6Y' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-08-29T18:07:11+08:00 ] 119.141.16.198 /index.php/Home/tymy/user_add?openid=o6iMB5bdYaFhgtwKOEagra9EPV6Y&name=%E8%8B%A5%E5%BD%93%E6%9D%A5%E4%B8%96%EE%8C%BC&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2Fyk06Bg8pVZX1IXN25tnGBOoOGDckEYosGPCq8b9NmlULTf24icXp806d1wicpVHbuBrcwSSYQwEibViacLh3sNWzcw%2F132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5bdYaFhgtwKOEagra9EPV6Y' LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `mn_qqh_user` (`openid`,`name`,`avatar`) VALUES ('o6iMB5bdYaFhgtwKOEagra9EPV6Y','若当来世','https://wx.qlogo.cn/mmopen/vi_32/yk06Bg8pVZX1IXN25tnGBOoOGDckEYosGPCq8b9NmlULTf24icXp806d1wicpVHbuBrcwSSYQwEibViacLh3sNWzcw/132') [ RunTime:0.0024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2018-08-29T18:07:11+08:00 ] 119.141.16.198 /index.php/Home/tymy/user_find?openid=o6iMB5bdYaFhgtwKOEagra9EPV6Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'o6iMB5bdYaFhgtwKOEagra9EPV6Y' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2018-08-29T18:07:11+08:00 ] 119.141.16.198 /index.php/Home/tymy/user_find?openid=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mn_qqh_user` WHERE `openid` = 'aldwx' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2018-08-29T18:07:11+08:00 ] 119.141.16.198 /index.php/Home/tymy/message_find_friend?openid1=o6iMB5bdYaFhgtwKOEagra9EPV6Y&openid2=aldwx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+SQL: select * from mn_qqh_message where openid2='aldwx' order by case when openid1='o6iMB5bdYaFhgtwKOEagra9EPV6Y' then 0 else 1 end asc [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2018-08-29T18:07:21+08:00 ] 119.141.16.198 /index.php/Home/tymy/message_find_mine?openid2=o6iMB5bdYaFhgtwKOEagra9EPV6Y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_message` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_qqh_message` WHERE `openid2` = 'o6iMB5bdYaFhgtwKOEagra9EPV6Y' ORDER BY create_time desc  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2018-08-29T18:46:53+08:00 ] 1.71.83.201 /index.php/Home/xzpd/getopenid?code=021g8Tfb0ub6Bv1Fvvhb0PbGfb0g8Tfv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 152 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_xz_user` WHERE `openid` = 'oV9VJ5HejSR_CywnPZpUuXMMjGM0' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+

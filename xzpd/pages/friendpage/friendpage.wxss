@@ -1,0 +1,356 @@
+.body {
+  width: 100%;
+  height: 100%;
+  min-height: 1400rpx;
+  background: linear-gradient(#14164b, #692c9b);
+}
+
+.flex-center {
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  margin-bottom: 700rpx;
+}
+
+.friendinfo {
+  display: flex;
+  margin-left: 60pt;
+  color: #fff;
+  align-items: center;
+  margin-top: 20pt;
+}
+
+.friendname {
+  margin-left: 11pt;
+  font-size: 11pt;
+}
+
+.starview {
+  display: flex;
+}
+
+.logo {
+  height: 32pt;
+  width: 46pt;
+  margin-left: 10pt;
+  margin-right: 5pt;
+  margin-top: 11pt;
+}
+
+.staricon {
+  width: 25pt;
+  height: 25pt;
+  margin-top: 9pt;
+}
+
+.staricon-score {
+  display: flex;
+  margin-left: 11pt;
+  flex-direction: column;
+  align-items: top;
+}
+
+.staricontext {
+  margin-top: 9pt;
+  font-size: 9pt;
+  color: #ddc6ff;
+}
+
+.score {
+  font-size: 11pt;
+  color: #ddc6ff;
+}
+
+.background {
+  position: absolute;
+  width: 750rpx;
+}
+
+.view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50rpx;
+}
+
+.radio_80 {
+  position: absolute;
+  width: 230rpx;
+  height: 230rpx;
+  border-radius: 50%;
+  background-color: #fff;
+  top: 300rpx;
+  left: 260rpx;
+  opacity: 0.2;
+}
+
+.radio_60 {
+  position: absolute;
+  width: 370rpx;
+  height: 370rpx;
+  border-radius: 50%;
+  background-color: #8085c3;
+  top: 230rpx;
+  left: 190rpx;
+  opacity: 0.2;
+}
+
+.radio_40 {
+  position: absolute;
+  width: 510rpx;
+  height: 510rpx;
+  border-radius: 50%;
+  background-color: #4572c9;
+  top: 170rpx;
+  left: 120rpx;
+  opacity: 0.2;
+}
+
+.radio_20 {
+  position: absolute;
+  width: 650rpx;
+  height: 650rpx;
+  border-radius: 50%;
+  background-color: #9798f5;
+  top: 100rpx;
+  left: 50rpx;
+  opacity: 0.2;
+}
+
+.radio {
+  position: absolute;
+  width: 110rpx;
+  height: 110rpx;
+  border-radius: 50%;
+  background-color: #9798f5;
+  top: 360rpx;
+  left: 320rpx;
+  opacity: 0.2;
+}
+
+.img {
+  width: 50rpx;
+  height: 50rpx;
+  border-radius: 50%;
+  position: absolute;
+  animation: myimg 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes myimg {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.2;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.userinfo-avatar {
+  position: absolute;
+  width: 110rpx;
+  height: 110rpx;
+  left: 320rpx;
+  top: 360rpx;
+  border-radius: 50%;
+}
+
+.friendinfo-avatar {
+  width: 25pt;
+  height: 25pt;
+  top: 124pt;
+  border-radius: 50%;
+}
+
+.line {
+  border: 1px solid #9e83be;
+  margin-top: 3pt;
+  margin-left: 60pt;
+  margin-bottom: 7pt;
+}
+
+.title {
+  display: flex;
+  color: #fff;
+  margin: 8pt 0 8pt 0;
+}
+
+.title-left {
+  margin-left: 18pt;
+  font-size: 13pt;
+}
+
+.title-right {
+  margin-left: 9pt;
+  font-size: 13pt;
+  opacity: 0.4;
+}
+
+.content {
+  margin: 0 10pt;
+  padding: 12pt 10pt;
+  background-color: #521d81;
+  color: #fff;
+  font-size: 26rpx;
+  border-radius: 7pt;
+}
+
+.more {
+  display: flex;
+  margin-top: 9pt;
+  margin-left: 75%;
+}
+
+.more-img {
+  width: 9pt;
+  height: 9pt;
+  margin-right: 3pt;
+  margin-bottom: -4pt;
+}
+
+.more-text {
+  font-size: 7pt;
+}
+
+.long-dec {
+  display: -webkit-box; /*关键属性*//* word-break: break-all; */
+  -webkit-box-orient: vertical; /* 关键属性 */
+  -webkit-line-clamp: 1; /* 关键属性 */
+  overflow: hidden; /* 关键属性 */
+  text-overflow: ellipsis; /* 超出内容显示省略号*/
+}
+
+.hide {
+  display: -webkit-box;
+}
+
+.show {
+  display: block;
+}
+
+.backgorund-paid {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  bottom: 0;
+  background-color: #202020;
+  opacity: 0.7;
+}
+
+.showpaid {
+  position: fixed;
+  width: 650rpx;
+  height: 380rpx;
+  top: 30%;
+  left: 50rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 7pt;
+  background-color: #f4edf9;
+  z-index: 66;
+  opacity: 0.9;
+}
+
+.paidtext1 {
+  color: #732fa6;
+  font-size: 26rpx;
+  margin-top: 20rpx;
+  margin-bottom: 12rpx;
+}
+
+.paidtext2 {
+  color: #732fa6;
+  font-size: 26rpx;
+  margin-bottom: 30rpx;
+}
+
+.paidone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.paidbutton1 {
+  width: 600rpx;
+  height: 70rpx;
+  margin-bottom: 32rpx;
+  background-color: #7b4feb;
+  color: #fff;
+  border-radius: 7pt;
+  text-align: center;
+  font-size: 24rpx;
+  padding-top: 10rpx;
+}
+
+.paidbutton2 {
+  width: 600rpx;
+  height: 70rpx;
+  margin-bottom: 64rpx;
+  background-color: #4d50ed;
+  color: #fff;
+  border-radius: 7pt;
+  text-align: center;
+  font-size: 24rpx;
+  padding-top: 10rpx;
+}
+
+.paidunlockimg {
+  width: 9pt;
+  height: 9pt;
+  margin-left: 6pt;
+  display: inline-block;
+  padding-top: 4pt;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.bottom-create {
+  position: relative;
+  width: 100%;
+  height:90rpx;
+  line-height: 90rpx;
+  background-color: #0c23af;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30rpx;
+  color: #fff;
+}
+
+.bottom-create-text {
+  font-size: 30rpx;
+  color: #fff;
+}
+
+.bottom-text-nor {
+  font-size: 8pt;
+  color: #7c8fff;
+}
+
+.bottom-img {
+  width: 15pt;
+  height: 15pt;
+  margin-left: 2pt;
+  margin-bottom: -5pt;
+  margin-top: 5pt;
+}
+
+.bottom-filling {
+  height: 90pt;
+  background-color: #692c9b;
+}

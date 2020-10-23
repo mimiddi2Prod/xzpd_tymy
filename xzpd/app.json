@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mypage/mypage",
+    "pages/friendpage/friendpage",
+    "pages/ranksunny/ranksunny",
+    "pages/rankmoon/rankmoon",
+    "pages/rankstar/rankstar",
+    "pages/share/share"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#15164C",
+    "navigationBarTitleText": "星座拍档",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}

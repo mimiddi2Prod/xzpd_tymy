@@ -1,0 +1,174 @@
+.body {
+  width: 100%;
+  height: 100%;
+  min-height: 1400rpx;
+  background-color: #090978;
+}
+
+.title {
+  position: relative;
+  top: 120rpx;
+  margin-bottom: 160rpx;
+  font-size: 13pt;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 80rpx;
+  height: 80rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+/* .bottom-filling {
+  height: 800pt;
+  background-color: #090978;
+} */
+
+.friendinfo {
+  position: relative;
+  display: flex;
+  width: 750rpx;
+  margin-left: 50rpx;
+  color: #fff;
+  align-items: center;
+  margin-top: 50rpx;
+}
+
+.friendinfo-avatar {
+  position: relative;
+  float: left;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  border: 3rpx solid #ffce54;
+}
+
+.friendname {
+  position: relative;
+  float: left;
+  margin-left: 20rpx;
+  font-size: 30rpx;
+}
+
+.friendscore {
+  position: absolute;
+  right: 100rpx;
+  font-size: 30rpx;
+  color: #ffce54;
+}
+
+.line {
+  border: 1px solid #2323b4;
+  margin: 20rpx 40rpx;
+}
+
+/* 自定义顶部导航栏 */
+
+.top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 66;
+}
+
+.lefttop {
+  position: relative;
+  float: left;
+  width: 33%;
+  padding-bottom: 8pt;
+  background-color: #2323b4;
+}
+
+.middletop {
+  position: relative;
+  float: left;
+  width: 34%;
+  padding-bottom: 7pt;
+  background-color: #090978;
+  border-bottom: 1pt solid #ffce54;
+}
+
+.righttop {
+  position: relative;
+  float: left;
+  width: 33%;
+  padding-bottom: 8pt;
+  background-color: #2323b4;
+}
+
+.top-view {
+  position: relative;
+  display: flex;
+  left: 24%;
+  align-items: center;
+}
+
+.top-text {
+  font-size: 8pt;
+  color: #ffca54;
+}
+
+/* .top-text-nor {
+  font-size: 8pt;
+  color: #7c8fff;
+} */
+
+.top-img {
+  width: 10pt;
+  height: 10pt;
+  margin-left: 2pt;
+  margin-bottom: -5pt;
+  margin-top: 5pt;
+}
+
+/* 自定义底部导航栏 */
+
+.bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 66;
+}
+
+.leftbottom {
+  position: relative;
+  float: left;
+  width: 50%;
+  background-color: #0c23af;
+}
+
+.rightbottom {
+  position: relative;
+  float: right;
+  width: 50%;
+  background-color: #0c23af;
+}
+
+.bottom-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bottom-text {
+  font-size: 8pt;
+  color: #fff;
+}
+
+.bottom-text-nor {
+  font-size: 8pt;
+  color: #7c8fff;
+}
+
+.bottom-img {
+  width: 15pt;
+  height: 15pt;
+  margin-left: 2pt;
+  margin-bottom: -5pt;
+  margin-top: 5pt;
+}

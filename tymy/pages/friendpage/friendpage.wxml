@@ -1,0 +1,117 @@
+<!--pages/friendpage/friendpage.wxml-->
+<view class="body">
+  <image class="bgtop" src="../images/baseicon/pagetop.jpg" mode="cover"></image>
+  <view class="flex">
+
+    <image class="userinfo-avatar" src="{{friendAvatarUrl}}" mode="cover" />
+    <text class="userinfo-name">{{friendname}}</text>
+  </view>
+
+  <view class="percentage">
+    <view class="leftpercentage">
+      <view class="flex">
+        <image class="decrypt" src="../images/baseicon/decrypt.png" bindtap='jiemimessage'></image>
+        <text>已解谜留言</text>
+        <text>{{seeThroughNumber}}</text>
+      </view>
+    </view>
+    <view class="centerpercentage">
+      <view class="flex">
+        <image class="liuyan" src="../images/baseicon/liuyan.png" bindtap='tosay'></image>
+      </view>
+    </view>
+    <view class="rightpercentage">
+      <view class="flex">
+        <image class="receive" src="../images/baseicon/receive.png" bindtap='allmessage'></image>
+        <text>收到留言</text>
+        <text>{{messageNumber}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="flex-center-share" wx:if="{{friendMessage == ''}}">点击上方按钮，来给我留言吧</view>
+
+  <view class="view" wx:for="{{friendMessage}}" wx:key="*this">
+    <view class="block" wx:if="{{allmessage}}">
+      <view class="avatars">
+        <view class="flex" wx:if="{{friendMessage[index].isshow == 1 || friendMessage[index].ispaid == 1}}">
+          <view class="avatar">
+
+            <image class="avatarboder" src="../images/baseicon/avatarboder.png" mode="cover"></image>
+            <image class="friend-avatar" src="{{friendMessage[index].avatar1}}" mode="cover"></image>
+          </view>
+          <text class="unfoletext">{{friendMessage[index].name1}}</text>
+        </view>
+        <view class="flex" wx:else>
+          <view class="avatar">
+            <image class="avatarboder" src="../images/baseicon/lock-avatar.png" mode="cover"></image>
+          </view>
+          <text class="unfoletext">??</text>
+        </view>
+      </view>
+
+      <view class="content">
+        <view>
+          <text class="long-dec {{show[index].isFold?'hide':'show'}}">{{friendMessage[index].message}}</text>
+        </view>
+
+
+        <view class="con">
+          <view id="{{index}}" class="more" bindtap="show">
+            <image class="more-img" src="{{show[index].isFold?'../images/baseicon/unfold.png':'../images/baseicon/fold.png'}}" mode="cover"></image>
+          </view>
+        </view>
+      </view>
+    </view>
+
+
+    <view class="block" wx:elif="{{friendMessage[index].isshow == 1 || friendMessage[index].ispaid == 1}}">
+      <view class="avatars">
+        <view class="flex">
+          <view class="avatar">
+
+            <image class="avatarboder" src="../images/baseicon/avatarboder.png" mode="cover"></image>
+            <image class="friend-avatar" src="{{friendMessage[index].avatar1}}" mode="cover"></image>
+          </view>
+          <text class="unfoletext">{{friendMessage[index].name1}}</text>
+        </view>
+      </view>
+
+      <view class="content">
+        <view>
+          <text class="long-dec {{show[index].isFold?'hide':'show'}}">{{friendMessage[index].message}}</text>
+        </view>
+
+        <view class="con">
+          <view id="{{index}}" class="more" bindtap="show">
+            <image class="more-img" src="{{show[index].isFold?'../images/baseicon/unfold.png':'../images/baseicon/fold.png'}}" mode="cover"></image>
+          </view>
+        </view>
+      </view>
+    </view>
+
+  </view>
+
+  <view class="showmessage" wx:if="{{!allmessage && seeThroughNumber == 0}}">
+    <text>好友暂无已解谜留言。</text>
+  </view>
+
+  <view class="full"></view>
+  <image class="bgbottom" src="../images/baseicon/pagebottom.jpg" mode="cover"></image>
+</view>
+
+<view class='bottom'>
+  <button class="bottom-create" bindtap='tomypage'>
+    进入我的留言板
+  </button>
+</view>
+
+
+<!-- 引导 -->
+<view wx:if="{{showguide}}">
+  <view class="backgorund-paid" bindtap='Notshowguide'></view>
+  <view class="showguide" bindtap='Notshowguide'>
+    <image class="gu" src="../images/baseicon/gu.png" mode="cover"></image>
+    <text>点击这里，给他留下神秘信息吧</text>
+  </view>
+</view>

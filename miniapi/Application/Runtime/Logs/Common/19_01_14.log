@@ -1,0 +1,12 @@
+[ 2019-01-14T03:58:32+08:00 ] 47.101.50.252 /index.php/explicit_not_exist_path
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+ERR: 无法加载模块:Explicit_not_exist_path
+
+[ 2019-01-14T11:47:13+08:00 ] 118.31.238.227 /index.php?s=captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 无法加载模块:Captcha
+

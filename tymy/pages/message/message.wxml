@@ -1,0 +1,63 @@
+<!--pages/message/message.wxml-->
+<view class="body">
+
+  <image class="bgtop" src="../images/baseicon/messagetop.jpg" mode="cover"></image>
+  <view class="flex">
+    <image class="avatar" src="../images/baseicon/avatar.png" mode="cover"></image>
+    <image class="myavatar" src="{{myavatar}}" mode="cover"></image>
+    <image class="avatarbottom" src="../images/baseicon/avatarbottom.png" mode="cover"></image>
+
+    <view class="content">
+      <view wx:for="{{myMessage}}" wx:key="*this">
+
+        <view class="con-blue" wx:if="{{myMessage[index].isshow == 0 && myMessage[index].ispaid == 0}}">
+          <view class="block font12 mess-padding">
+            <text class="font-color-blue liuyan-left">留言 : </text>
+            <text class="liuyan-right">{{myMessage[index].message}}</text>
+          </view>
+          <view class="block font12 mess-padding">
+            <text class="font-color-blue liuyan-left">线索 : </text>
+            <text class="liuyan-right">{{myMessage[index].cue}}</text>
+          </view>
+          <view class="block avatar-padding">
+            <image class="avatar2-blue" src="{{myMessage[index].avatar2}}" mode="cover"></image>
+            <view class="avatar2-right font11">
+              <view class="name2">{{myMessage[index].name2}}</view>
+              <view>
+                <image class="seethrogh-img" src="../images/baseicon/jiami.png" mode="cover"></image>
+                <text class="font-color-blue">TA还在纠结到底是谁</text>
+              </view>
+            </view>
+          </view>
+        </view>
+
+        <view class="con-pink" wx:else>
+          <view class="block font12 mess-padding">
+            <text class="font-color-pink liuyan-left">留言 : </text>
+            <text class="liuyan-right">{{myMessage[index].message}}</text>
+          </view>
+
+          <view class="block font12 mess-padding">
+            <text class="font-color-pink liuyan-left">线索 : </text>
+            <text class="liuyan-right">{{myMessage[index].cue}}</text>
+          </view>
+          <view class="block avatar-padding">
+            <image class="avatar2-pink" src="{{myMessage[index].avatar2}}" mode="cover"></image>
+            <view class="avatar2-right font11">
+              <view class="name2">{{myMessage[index].name2}}</view>
+              <view>
+                <image class="seethrogh-img" src="../images/baseicon/jiemi.png" mode="cover"></image>
+                <text class="font-color-pink">别隐藏了，就是你！</text>
+              </view>
+            </view>
+          </view>
+        </view>
+
+      </view>
+    </view>
+
+    <image class="bgbottom" src="../images/baseicon/messagebottom.png" mode="cover"></image>
+  </view>
+  <view class="bottom"></view>
+
+</view>

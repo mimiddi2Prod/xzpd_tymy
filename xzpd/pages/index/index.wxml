@@ -1,0 +1,30 @@
+<view class='body'>
+  <image class="background" src="../images/baseicon/stars_index.png" mode="cover"></image>
+  <view class="view">
+
+    <button class='radio_20'></button>
+    <button class='radio_40'></button>
+    <button class='radio_60'></button>
+    <button class='radio_80'></button>
+    <button class='radio'></button>
+
+    <image class="userinfo-avatar" wx:if="{{!hasUserInfo && canIUse}}" src="{{myavatarUrl}}" mode="cover"></image>
+    <image class="userinfo-avatar" wx:else src="{{userInfo.avatarUrl}}" mode="cover"></image>
+
+  </view>
+
+
+  <loading wx:if="{{loading}}">加载中</loading>
+  <view class="choose" wx:if="{{!choose}}">
+    <button wx:if="{{myavatarUrl}}">开始测试吧</button>
+    <button wx:else open-type="getUserInfo" bindgetuserinfo='getUserInfo' bindtap='start'> 开始测试吧</button>
+  </view>
+
+  <view class="choose" wx:else>
+    <picker mode="date" start='1900-01-01' end="{{endtime}}" bindchange='changeDate'>
+      <view class='date'>选择出生日期</view>
+    </picker>
+  </view>
+  <!-- </block> -->
+
+</view>

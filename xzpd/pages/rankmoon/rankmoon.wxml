@@ -1,0 +1,73 @@
+<!-- 自定义顶部导航栏 -->
+<view class='top'>
+  <view class="lefttop" bindtap='navitosunny'>
+    <view class="top-view">
+      <image class="top-img" src="../images/baseicon/sunny.png" mode='cover'></image>
+      <text class=" top-text">
+        最佳拍档
+      </text>
+    </view>
+  </view>
+
+  <view class="middletop">
+    <view class="top-view">
+      <image class="top-img" src="../images/baseicon/half-moon.png" mode='cover'></image>
+      <text class=" top-text">
+        相处愉快
+      </text>
+    </view>
+  </view>
+
+  <view class="righttop" bindtap='navitostar'>
+    <view class="top-view">
+      <image class="top-img" src="../images/baseicon/star.png" mode='cover'></image>
+      <text class=" top-text">
+       有些问题
+      </text>
+    </view>
+  </view>
+</view>
+
+
+
+<view class="body">
+  <view class="title">
+    <text>我们与你会相处愉快</text>
+  </view>
+
+  <view wx:for="{{showpairarr}}" wx:key="*this">
+    <view class="friendinfo" wx:if="{{showpairarr[index].score >= 40 && showpairarr[index].score < 80}}">
+      <image class="friendinfo-avatar" src="{{showpairarr[index].avatar2}}" mode="cover"></image>
+
+      <text class="friendname">{{showpairarr[index].name2}}</text>
+
+      <text class="friendscore">{{showpairarr[index].score}}分</text>
+    </view>
+    <button class="line" wx:if="{{showpairarr[index].score >= 40 && showpairarr[index].score < 80}}"></button>
+  </view>
+</view>
+
+
+<!-- <view class="bottom-filling"></view> -->
+
+
+<!-- 自定义底部导航栏 -->
+<view class='bottom'>
+  <view class="leftbottom" bindtap='navitomain'>
+    <view class="bottom-view">
+      <image class="bottom-img" src="../images/baseicon/index_nor.png" mode='cover'></image>
+      <text class=" bottom-text-nor">
+        分析
+      </text>
+    </view>
+  </view>
+
+  <view class="rightbottom">
+    <view class="bottom-view">
+      <image class="bottom-img" src="../images/baseicon/rank_active.png" mode='cover'></image>
+      <text class=" bottom-text">
+       排行
+      </text>
+    </view>
+  </view>
+</view>

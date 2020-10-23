@@ -1,0 +1,426 @@
+[ 2019-01-14T01:09:00+08:00 ] 74.82.47.2 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2019-01-14T01:32:47+08:00 ] 185.142.236.34 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2019-01-14T02:55:20+08:00 ] 119.23.174.205 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2019-01-14T03:58:31+08:00 ] 47.101.50.252 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0054s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0053s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0038s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000571s ]
+
+[ 2019-01-14T03:58:31+08:00 ] 47.101.50.252 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2019-01-14T03:58:32+08:00 ] 47.101.50.252 /?c=4e5e5d7364f443e28fbf0d3ae744a59a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+
+[ 2019-01-14T08:17:47+08:00 ] 47.97.21.76 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0042s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2019-01-14T10:21:43+08:00 ] 207.46.13.11 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0048s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2019-01-14T11:03:39+08:00 ] 198.108.66.192 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0053s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2019-01-14T11:12:36+08:00 ] 101.91.62.170 /index.php/home/PubWXPay/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 3 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 4 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 5 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 6 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 7 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: openid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: mch_id C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 18 行.
+NOTIC: [8] Undefined variable: key C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: out_trade_no C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: body C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: total_fee C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 22 行.
+NOTIC: [2] simplexml_load_string() expects parameter 1 to be string, array given C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 171 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 176 行.
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 177 行.
+NOTIC: [8] Use of undefined constant out_trade_no - assumed 'out_trade_no' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 178 行.
+NOTIC: [8] Use of undefined constant time_end - assumed 'time_end' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 179 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2019-01-14T11:12:36+08:00 ] 101.91.62.170 /index.php/home/PubWXPay/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 3 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 4 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 5 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 6 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 7 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: openid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: mch_id C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 18 行.
+NOTIC: [8] Undefined variable: key C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: out_trade_no C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: body C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: total_fee C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 22 行.
+NOTIC: [2] simplexml_load_string() expects parameter 1 to be string, array given C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 171 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 176 行.
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 177 行.
+NOTIC: [8] Use of undefined constant out_trade_no - assumed 'out_trade_no' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 178 行.
+NOTIC: [8] Use of undefined constant time_end - assumed 'time_end' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 179 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2019-01-14T13:15:14+08:00 ] 101.91.62.170 /index.php/home/PubWXPay/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 3 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 4 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 5 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 6 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 7 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: openid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: mch_id C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 18 行.
+NOTIC: [8] Undefined variable: key C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: out_trade_no C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: body C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: total_fee C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 22 行.
+NOTIC: [2] simplexml_load_string() expects parameter 1 to be string, array given C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 171 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 176 行.
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 177 行.
+NOTIC: [8] Use of undefined constant out_trade_no - assumed 'out_trade_no' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 178 行.
+NOTIC: [8] Use of undefined constant time_end - assumed 'time_end' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 179 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001491s ]
+
+[ 2019-01-14T13:15:14+08:00 ] 101.91.62.170 /index.php/home/PubWXPay/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 3 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 4 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 5 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 6 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 7 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: openid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: mch_id C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 18 行.
+NOTIC: [8] Undefined variable: key C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: out_trade_no C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: body C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: total_fee C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 22 行.
+NOTIC: [2] simplexml_load_string() expects parameter 1 to be string, array given C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 171 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 176 行.
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 177 行.
+NOTIC: [8] Use of undefined constant out_trade_no - assumed 'out_trade_no' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 178 行.
+NOTIC: [8] Use of undefined constant time_end - assumed 'time_end' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 179 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2019-01-14T13:25:59+08:00 ] 47.90.7.166 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2019-01-14T14:45:21+08:00 ] 71.6.146.186 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0084s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000851s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000912s ]
+
+[ 2019-01-14T14:53:26+08:00 ] 101.91.62.170 /index.php/home/PubWXPay/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 3 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 4 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 5 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 6 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 7 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: openid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: mch_id C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 18 行.
+NOTIC: [8] Undefined variable: key C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: out_trade_no C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: body C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: total_fee C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 22 行.
+NOTIC: [2] simplexml_load_string() expects parameter 1 to be string, array given C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 171 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 176 行.
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 177 行.
+NOTIC: [8] Use of undefined constant out_trade_no - assumed 'out_trade_no' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 178 行.
+NOTIC: [8] Use of undefined constant time_end - assumed 'time_end' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 179 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2019-01-14T14:53:27+08:00 ] 101.91.62.170 /index.php/home/PubWXPay/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 3 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 4 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 5 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 6 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 7 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: openid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: mch_id C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 18 行.
+NOTIC: [8] Undefined variable: key C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: out_trade_no C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: body C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: total_fee C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 22 行.
+NOTIC: [2] simplexml_load_string() expects parameter 1 to be string, array given C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 171 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 176 行.
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 177 行.
+NOTIC: [8] Use of undefined constant out_trade_no - assumed 'out_trade_no' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 178 行.
+NOTIC: [8] Use of undefined constant time_end - assumed 'time_end' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 179 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2019-01-14T15:13:49+08:00 ] 114.242.143.149 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0093s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2019-01-14T16:42:00+08:00 ] 60.191.38.78 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0058s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2019-01-14T18:21:05+08:00 ] 182.48.105.210 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2019-01-14T18:37:17+08:00 ] 101.4.110.154 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003198s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0023s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001035s ]
+
+[ 2019-01-14T20:23:36+08:00 ] 183.90.36.94 /index.php/Home/mndmovie/openid_get?code=022ZXxa61PTSeL1G3zb61u6Xa61ZXxa6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\MndmovieController.class.php 第 129 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\MndmovieController.class.php 第 137 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000939s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2019-01-14T23:52:42+08:00 ] 74.82.47.4 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000927s ]
+

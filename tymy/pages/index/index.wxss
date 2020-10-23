@@ -1,0 +1,69 @@
+/**index.wxss**/
+
+.body {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  background-color: #febfdd;
+  /* background: linear-gradient(#14164b, #692c9b); */
+}
+
+.view {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10rpx;
+}
+
+.userinfo-avatar {
+  position: absolute;
+  width: 110rpx;
+  height: 110rpx;
+  left: 320rpx;
+  top: 100rpx;
+  border-radius: 50%;
+}
+
+.start {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+  margin-top: 100%;
+}
+
+.bgtop {
+  position: absolute;
+  width: 750rpx;
+}
+
+.bgbottom {
+  position: absolute;
+  width: 750rpx;
+  display: block;
+  bottom: 0;
+}
+
+text {
+  font-size: 32rpx;
+  margin-bottom: 50rpx;
+  display: inline-block;
+  margin-left: 120rpx;
+  margin-right: 80rpx;
+  text-indent: -34rpx;
+  /* opacity: 0.7; */
+  font-weight: 600;
+  color:white;
+}
+
+.textsay {
+  position: absolute;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+  top: 300rpx;
+  z-index: 666;
+  width: 750rpx;
+}

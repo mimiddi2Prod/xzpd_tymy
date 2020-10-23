@@ -1,0 +1,269 @@
+[ 2018-10-10T01:15:30+08:00 ] 140.205.205.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-10-10T01:28:39+08:00 ] 140.205.205.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2018-10-10T02:41:15+08:00 ] 120.55.13.109 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2018-10-10T06:18:55+08:00 ] 178.73.215.171 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2018-10-10T06:33:46+08:00 ] 140.205.205.25 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2018-10-10T06:48:12+08:00 ] 13.57.233.99 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2018-10-10T07:12:59+08:00 ] 140.243.246.130 /index.php/Home/xzpd/getopenid?code=033x7sh91lyKdR1doEf91oZah91x7shU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 152 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_xz_user` WHERE `openid` = 'oV9VJ5EXznslOoWEeKnmTjFC5IR0' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2018-10-10T08:32:00+08:00 ] 223.88.61.131 /index.php/Home/xzpd/getopenid?code=081qEuD31rbcMN1urZA31eGcD31qEuDD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 152 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `mn_xz_user` WHERE `openid` = 'oV9VJ5MCNQnt8pXT91h8K6jB_C4k' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2018-10-10T08:32:26+08:00 ] 223.88.61.131 /index.php/Home/xzpd/adduser?openid=oV9VJ5MCNQnt8pXT91h8K6jB_C4k&name=%E4%B8%94%E8%A1%8C%E4%B8%94%E7%8F%8D%E6%83%9C&avatar=https%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FDYAIOgq83erfbucJpP0sicuVm24nOXmAgaXichicokLGBPPojw3CqKwQK0ZHFaaUTUVcVXeUicg0VGKr3JBdyhTvAQ%2F132&constellation=%E5%A4%84%E5%A5%B3&staricon=..%2Fimages%2Fstaricon%2Fchunv.png&date=09-11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `mn_xz_user` WHERE `openid` = 'oV9VJ5MCNQnt8pXT91h8K6jB_C4k' LIMIT 1   [ RunTime:0.0006s ]
+SQL: INSERT INTO `mn_xz_user` (`openid`,`name`,`avatar`,`constellation`,`staricon`,`date`) VALUES ('oV9VJ5MCNQnt8pXT91h8K6jB_C4k','且行且珍惜','https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erfbucJpP0sicuVm24nOXmAgaXichicokLGBPPojw3CqKwQK0ZHFaaUTUVcVXeUicg0VGKr3JBdyhTvAQ/132','处女','../images/staricon/chunv.png','09-11') [ RunTime:0.0028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2018-10-10T08:52:02+08:00 ] 107.170.234.219 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2018-10-10T12:29:48+08:00 ] 157.55.39.159 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2018-10-10T13:41:13+08:00 ] 139.207.31.88 /index.php/Home/xzpd/getopenid?code=033qle6E0nICid2zyx8E0zjh6E0qle6x
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 152 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `mn_xz_user` WHERE `openid` = 'oV9VJ5FAcx3DT0063s2LfnlMA6Rg' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2018-10-10T13:43:13+08:00 ] 139.207.31.88 /index.php/Home/xzpd/getopenid?code=033Rpqja0qZPQv1WJyka0xpuja0Rpqjq
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 152 行.
+NOTIC: [2] curl_errno(): 24 is not a valid cURL handle resource C:\project\miniapi\Application\Home\Controller\XzpdController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `mn_xz_user` WHERE `openid` = 'oV9VJ5FAcx3DT0063s2LfnlMA6Rg' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2018-10-10T16:57:16+08:00 ] 184.105.247.194 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `mn_xz_user` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `mn_qqh_user` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_xz_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `mn_qqh_user` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2018-10-10T17:22:54+08:00 ] 101.91.62.170 /index.php/home/PubWXPay/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 3 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 4 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 5 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 6 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 7 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: openid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: mch_id C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 18 行.
+NOTIC: [8] Undefined variable: key C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: out_trade_no C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: body C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: total_fee C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 22 行.
+NOTIC: [2] simplexml_load_string() expects parameter 1 to be string, array given C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 171 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 176 行.
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 177 行.
+NOTIC: [8] Use of undefined constant out_trade_no - assumed 'out_trade_no' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 178 行.
+NOTIC: [8] Use of undefined constant time_end - assumed 'time_end' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 179 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2018-10-10T17:22:54+08:00 ] 101.91.62.170 /index.php/home/PubWXPay/notify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 2 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 3 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 4 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 5 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 6 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [2] Missing argument 7 for Home\Controller\PubWXPayController::__construct(), called in C:\project\miniapi\ThinkPHP\Common\functions.php on line 681 and defined C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: openid C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: mch_id C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 18 行.
+NOTIC: [8] Undefined variable: key C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 19 行.
+NOTIC: [8] Undefined variable: out_trade_no C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: body C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: total_fee C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 22 行.
+NOTIC: [2] simplexml_load_string() expects parameter 1 to be string, array given C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 171 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 176 行.
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 177 行.
+NOTIC: [8] Use of undefined constant out_trade_no - assumed 'out_trade_no' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 178 行.
+NOTIC: [8] Use of undefined constant time_end - assumed 'time_end' C:\project\miniapi\Application\Home\Controller\PubWXPayController.class.php 第 179 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+

@@ -1,0 +1,169 @@
+/* pages/message/message.wxss */
+
+.body {
+  width: 100%;
+  height: 100%;
+  min-height: 1400rpx;
+  background-color: #003fb0;
+}
+
+.bgtop {
+  position: absolute;
+  width: 750rpx;
+}
+
+.avatar {
+  position: relative;
+  width: 160rpx;
+  height: 150rpx;
+  top: 220rpx;
+}
+
+.myavatar {
+  position: absolute;
+  width: 92rpx;
+  height: 98rpx;
+  top: 240rpx;
+  border-radius: 50%;
+  margin-left: 2rpx;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.avatarbottom {
+  position: relative;
+  width: 700rpx;
+  height: 100rpx;
+  top: 140rpx;
+  left: 2rpx;
+}
+
+.content {
+  position: relative;
+  background-color: #f5f5f5;
+  width: 700rpx;
+  height: auto;
+  margin: 0 25rpx 0 25rpx;
+  top: 140rpx;
+  left: 2rpx;
+  opacity: 0.95;
+  font-family: MicrosoftYaHei;
+}
+
+.con-blue {
+  border: 2rpx solid #2355b9;
+  border-radius: 15pt;
+  width: 600rpx;
+  margin-left: 51rpx;
+  box-shadow: 0rpx 2rpx 10rpx #21acdf;
+  margin-bottom: 36rpx;
+}
+
+.con-pink {
+  border: 2rpx solid #f881b1;
+  border-radius: 15pt;
+  width: 600rpx;
+  margin-left: 51rpx;
+  box-shadow: 0rpx 2rpx 10rpx #d05980;
+  margin-bottom: 36rpx;
+}
+
+.block {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+}
+
+.font12 {
+  font-size: 12pt;
+}
+
+.mess-padding {
+  padding: 20rpx 20rpx 0 20rpx;
+}
+
+.avatar-padding {
+  padding: 30rpx 0rpx 20rpx 20rpx;
+}
+
+.font-color-blue {
+  color: #125bff;
+}
+
+.font-color-pink {
+  color: #f881b1;
+}
+
+.font11 {
+  font-size: 11pt;
+}
+
+.liuyan-left {
+  position: relative;
+  float: left;
+  width: 16%;
+}
+
+.liuyan-right {
+  position: relative;
+  width: 76%;
+  float: right;
+  color: #666;
+  padding: 0 40rpx 0 0;
+  display: -webkit-box; /*关键属性*/
+  -webkit-box-orient: vertical; /* 关键属性 */
+  overflow: hidden; /* 关键属性 */
+  text-overflow: ellipsis; /* 超出内容显示省略号*/
+  word-break: break-all; /* 英文换行 */
+}
+
+.avatar2-blue {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  margin-right: 10rpx;
+  border: 3rpx solid #21acdf;
+}
+
+.avatar2-pink {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+  margin-right: 10rpx;
+  border: 3rpx solid #d05980;
+}
+
+.name2 {
+  padding: 0 20rpx 0 3pt;
+}
+
+.seethrogh-img {
+  position: relative;
+  float: left;
+  width: 9pt;
+  height: 9pt;
+  margin-left: 3pt;
+  margin-top: 3pt;
+  margin-right: 3pt;
+}
+
+.avatar2-right {
+  display: inline-block;
+}
+
+.bgbottom {
+  position: relative;
+  width: 700rpx;
+  height: 300rpx;
+  top: 140rpx;
+  left: 2rpx;
+}
+
+.bottom {
+  background-color: #003fb0;
+  height: 200rpx;
+}

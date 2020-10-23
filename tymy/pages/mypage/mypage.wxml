@@ -1,0 +1,330 @@
+<!--pages/mypage/mypage.wxml-->
+<view class="body">
+  <image class="bgtop" src="../images/baseicon/pagetop.jpg" mode="cover"></image>
+  <view class="flex">
+
+    <image class="userinfo-avatar" src="{{myAvatarUrl}}" mode="cover" />
+    <text class="userinfo-name">{{myname}}</text>
+  </view>
+
+  <view class="flex-center-share" wx:if="{{friendMessage == ''}}">点击右上角分享后，期待神秘好友给你留言</view>
+
+  <view class="percentage" wx:else>
+    <view class="leftpercentage">
+      <view class="flex">
+        <image class="decrypt" src="../images/baseicon/decrypt.png" bindtap='jiemimessage'></image>
+        <text>已解谜留言</text>
+        <text>{{seeThroughNumber}}</text>
+      </view>
+    </view>
+    <view class="rightpercentage">
+      <view class="flex">
+        <image class="receive" src="../images/baseicon/receive.png" bindtap='allmessage'></image>
+        <text>收到留言</text>
+        <text>{{messageNumber}}</text>
+      </view>
+    </view>
+  </view>
+
+
+
+  <view class="view" wx:for="{{friendMessage}}" wx:key="*this">
+    <view class="block" wx:if="{{allmessage}}">
+      <view class="avatars">
+        <view class="flex" wx:if="{{friendMessage[index].isshow == 1 || friendMessage[index].ispaid == 1}}">
+          <view class="avatar">
+
+            <image class="avatarboder" src="../images/baseicon/avatarboder.png" mode="cover"></image>
+            <image class="friend-avatar" src="{{friendMessage[index].avatar1}}" mode="cover"></image>
+          </view>
+          <text class="unfoletext">{{friendMessage[index].name1}}</text>
+        </view>
+        <view class="flex" wx:else>
+          <view class="avatar">
+            <image class="avatarboder" src="../images/baseicon/lock-avatar.png" mode="cover"></image>
+          </view>
+          <text class="unfoletext">??</text>
+        </view>
+      </view>
+
+      <view class="content">
+        <view>
+          <text class="long-dec {{show[index].isFold?'hide':'show'}}">{{friendMessage[index].message}}</text>
+        </view>
+
+
+        <view class="con">
+          <button id="{{index}}" class="seethrogh" bindtap="toshowcue">
+            <image class="seethrogh-img" src="../images/baseicon/key.png" mode="cover"></image>
+            <text>线索</text>
+          </button>
+
+
+          <button id="{{index}}" class="seethrogh" wx:if="{{friendMessage[index].count == 0}}" bindtap='topay'>
+            <image class="seethrogh-img" src="../images/baseicon/see.png" mode="cover"></image>
+            <text>解谜</text>
+          </button>
+
+          <button id="{{index}}" class="seethrogh" wx:else bindtap='tosharetext'>
+            <image class="seethrogh-img" src="../images/baseicon/see.png" mode="cover"></image>
+            <text>解谜</text>
+          </button>
+
+          <button id="{{index}}" class="seethrogh" bindtap="deletemessage">
+            <image class="seethrogh-img" src="../images/baseicon/delete.png" mode="cover"></image>
+            <text>删除</text>
+          </button>
+
+          <view id="{{index}}" class="more" bindtap="show">
+            <image class="more-img" src="{{show[index].isFold?'../images/baseicon/unfold.png':'../images/baseicon/fold.png'}}" mode="cover"></image>
+            <!-- <text>{{show[index].isFold?unfoldinfo:foldinfo}}</text> -->
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <view class="block" wx:elif="{{friendMessage[index].isshow == 1 || friendMessage[index].ispaid == 1}}">
+
+      <view class="avatars">
+        <view class="flex">
+          <view class="avatar">
+
+            <image class="avatarboder" src="../images/baseicon/avatarboder.png" mode="cover"></image>
+            <image class="friend-avatar" src="{{friendMessage[index].avatar1}}" mode="cover"></image>
+          </view>
+          <text class="unfoletext">{{friendMessage[index].name1}}</text>
+        </view>
+
+      </view>
+
+
+
+      <view class="content">
+        <view>
+          <text class="long-dec {{show[index].isFold?'hide':'show'}}">{{friendMessage[index].message}}</text>
+        </view>
+
+
+        <view class="con">
+
+          <button id="{{index}}" class="seethrogh" bindtap="toshowcue">
+            <image class="seethrogh-img" src="../images/baseicon/key.png" mode="cover"></image>
+            <text>线索</text>
+          </button>
+
+          <button id="{{index}}" class="seethrogh" wx:if="{{friendMessage[index].count == 0}}" bindtap='topay'>
+            <image class="seethrogh-img" src="../images/baseicon/see.png" mode="cover"></image>
+            <text>解谜</text>
+          </button>
+
+          <button id="{{index}}" class="seethrogh" wx:else bindtap='tosharetext'>
+            <image class="seethrogh-img" src="../images/baseicon/see.png" mode="cover"></image>
+            <text>解谜</text>
+          </button>
+
+
+          <button id="{{index}}" class="seethrogh" bindtap="deletemessage">
+            <image class="seethrogh-img" src="../images/baseicon/delete.png" mode="cover"></image>
+            <text>删除</text>
+          </button>
+
+          <view id="{{index}}" class="more" bindtap="show">
+            <image class="more-img" src="{{show[index].isFold?'../images/baseicon/unfold.png':'../images/baseicon/fold.png'}}" mode="cover"></image>
+
+          </view>
+        </view>
+      </view>
+    </view>
+
+
+  </view>
+
+  <view class="showmessage" wx:if="{{!allmessage && seeThroughNumber == 0}}">
+    <text>暂无已解谜留言，快去解谜吧</text>
+  </view>
+
+  <view class="full"></view>
+  <image class="bgbottom" src="../images/baseicon/pagebottom.jpg" mode="cover"></image>
+</view>
+
+<image class="share-img" bindtap='toshare' src="../images/baseicon/share.png" mode="cover"></image>
+
+<loading wx:if="{{load}}"></loading>
+
+
+
+<!-- 付费弹窗 -->
+<view class="flex-center" wx:if="{{showpaid}}">
+  <view class="backgorund-paid" bindtap='Notpaid'></view>
+  <view class="showpaid">
+
+    <text class="paidtext1">(✿◡‿◡)</text>
+    <text class="paidtext2">仅提供三次分享解谜机会哦</text>
+    <text class="paidtext2">让我们帮你解谜吧~</text>
+
+    <view class="paidbutton1" bindtap='payone'>
+      <image class="paidunlockimg" src="../images/baseicon/pay.png" mode='cover'></image>
+      <text>7.7元帮你找到TA是谁</text>
+    </view>
+
+  </view>
+</view>
+
+<!-- 展示线索 -->
+<view wx:for="{{friendMessage}}" wx:key="*this" wx:for-index="cueindex" class="flex-center" wx:if="{{showcue && [cueindex] == indexs}}">
+  <view class="backgorund-paid" bindtap='Notshowcue'></view>
+  <view class="showcue">
+    <text class="paidtext1">线索</text>
+    <view class="cuebtn">
+      <text class="cue">{{friendMessage[cueindex].cue}}</text>
+    </view>
+    <text class="paidtext">猜猜该条留言的人是谁</text>
+    <text class="paidtext">点击解谜分享给TA</text>
+    <text class="paidtext">若猜测正确，对方打开后</text>
+    <text class="paidtext">你的留言板中该用户的头像将被点亮。</text>
+    <view class="cueshare">
+      <text class="sharecount">解谜剩余次数:{{friendMessage[cueindex].count}}</text>
+
+      <button id="{{cueindex}}" class="sharebtn" wx:if="{{friendMessage[cueindex].count == 0}}" bindtap='topay'>分享解谜</button>
+      <button id="{{cueindex}}" class="sharebtn" open-type='share' wx:else>分享解谜</button>
+    </view>
+
+    <view class="cueshare">
+      <text class="sharecount">想直接知道TA是谁？</text>
+      <button id="{{textindex}}" class="sharebtn" bindtap='payone'>7.7元一键解谜</button>
+    </view>
+
+  </view>
+</view>
+
+<!-- 展示文本 -->
+<view wx:for="{{friendMessage}}" wx:key="*this" wx:for-index="textindex" class="flex-center" wx:if="{{showtext && [textindex] == indexss}}">
+  <view class="backgorund-paid" bindtap='Notshowtext'></view>
+  <view class="showtext">
+    <text class="paidtext">猜猜该条留言的人是谁</text>
+    <text class="paidtext">点击解谜分享给TA</text>
+    <text class="paidtext">若猜测正确，对方打开后</text>
+    <text class="paidtext">你的留言板中该用户的头像将被点亮。</text>
+    <view class="cueshare">
+      <text class="sharecount">解谜剩余次数:{{friendMessage[textindex].count}}</text>
+      <button id="{{textindex}}" class="sharebtn" open-type='share'>分享解谜</button>
+    </view>
+
+    <view class="cueshare">
+      <text class="sharecount">想直接知道TA是谁？</text>
+      <button id="{{textindex}}" class="sharebtn" bindtap='payone'>7.7元一键解谜</button>
+    </view>
+
+  </view>
+</view>
+
+<!-- 引导1 -->
+<view wx:if="{{showguide1}}">
+  <view class="backgorund-paid" bindtap='Notshowguide1'></view>
+  <view class="showguide1" bindtap='Notshowguide1'>
+    <text>分享给好友，期待TA的留言吧 -></text>
+    <image class="share-img" src="../images/baseicon/share.png" mode="cover"></image>
+  </view>
+</view>
+
+<!-- 引导2 -->
+<view wx:if="{{showguide2}}">
+  <view class="backgorund-paid" bindtap='Notshowguide2'></view>
+  <view class="showguide2" bindtap='Notshowguide2'>
+
+    <view class="block">
+      <view class="avatars2">
+
+        <view class="flex">
+          <view class="avatar">
+            <image class="avatarboder" src="../images/baseicon/lock-avatar.png" mode="cover"></image>
+          </view>
+          <text class="unfoletext">??</text>
+        </view>
+      </view>
+
+      <view class="content">
+        <view>
+          <text class="long-dec {{show[index].isFold?'hide':'show'}}">最爱你的人是我</text>
+        </view>
+
+        <view class="con">
+          <button class="seethrogh">
+            <image class="seethrogh-img" src="../images/baseicon/key.png" mode="cover"></image>
+            <text>线索</text>
+          </button>
+
+          <button class="seethrogh notshowbtn">
+            <image class="seethrogh-img" src="../images/baseicon/see.png" mode="cover"></image>
+            <text>解谜</text>
+          </button>
+
+          <button class="seethrogh notshowbtn">
+            <image class="seethrogh-img" src="../images/baseicon/delete.png" mode="cover"></image>
+            <text>删除</text>
+          </button>
+
+          <view class="more" bindtap="show">
+            <image class="more-img" src="{{show[index].isFold?'../images/baseicon/unfold.png':'../images/baseicon/fold.png'}}" mode="cover"></image>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="flex">
+      <text>好友留言后，点击线索</text>
+      <text>查看神秘好友给你留下的情报吧</text>
+    </view>
+
+  </view>
+</view>
+
+<!-- 引导3 -->
+<view wx:if="{{showguide3}}">
+  <view class="backgorund-paid" bindtap='Notshowguide3'></view>
+  <view class="showguide2" bindtap='Notshowguide3'>
+
+    <view class="block">
+      <view class="avatars2">
+
+        <view class="flex">
+          <view class="avatar">
+            <image class="avatarboder" src="../images/baseicon/lock-avatar.png" mode="cover"></image>
+          </view>
+          <text class="unfoletext">??</text>
+        </view>
+      </view>
+
+      <view class="content">
+        <view>
+          <text class="long-dec {{show[index].isFold?'hide':'show'}}">最爱你的人是我</text>
+        </view>
+
+        <view class="con">
+          <button class="seethrogh notshowbtn">
+            <image class="seethrogh-img" src="../images/baseicon/key.png" mode="cover"></image>
+            <text>线索</text>
+          </button>
+
+          <button class="seethrogh">
+            <image class="seethrogh-img" src="../images/baseicon/see.png" mode="cover"></image>
+            <text>解谜</text>
+          </button>
+
+          <button class="seethrogh notshowbtn">
+            <image class="seethrogh-img" src="../images/baseicon/delete.png" mode="cover"></image>
+            <text>删除</text>
+          </button>
+
+          <view class="more" bindtap="show">
+            <image class="more-img" src="{{show[index].isFold?'../images/baseicon/unfold.png':'../images/baseicon/fold.png'}}" mode="cover"></image>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="flex">
+      <text>点击解谜</text>
+      <text>分享给你认为正确的留言者</text>
+    </view>
+
+  </view>
+</view>
